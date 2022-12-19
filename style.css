@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding:0;
+	
+}
+body {
+    background-image: url("https://pic.pikbest.com/01/30/02/66i888piCWCn.jpg-0.jpg!bw700");
+    background-size: cover;
+}
+.button{
+			width: 50px;
+			height: 50px;
+			font-size: 25px;
+			margin: 2;
+			cursor: pointer;
+			background:#3da26f;
+			border: none;
+			color:white;
+}
+
+.textview{
+			width:200px;
+			margin: 8px;
+			font-size:30px;
+			padding: 10px;
+			background:red;
+			border: five;
+			color: white;
+}
+.main{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:translateX(-50%)translateY(-50%);
+
+}
+
+.kembali a {
+    float: left;
+    text-decoration: none;
+    color: #fff;
+    padding: 5px 4px;
+    border:1px solid;
+    border-radius: 2px;
+    margin-top: 10px;
+}
+.kembali a:hover{
+    background:yellowgreen
+  
+}
