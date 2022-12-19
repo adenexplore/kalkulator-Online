@@ -48,3 +48,12 @@ body {
     background:yellowgreen
   
 }
+
+@media screen and (max-width: 720px) {
+		body {
+			width: 100%;
+			height: auto;
+			background-size: cover;
+			background-image: url(https://informazone.com/wp-content/uploads/2019/03/ship_full_moon_horizon_129359_720x1280.jpg);
+		}
+}
