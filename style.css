@@ -8,7 +8,7 @@ body {
     background-size: cover;
 }
 .button{
-			width: 50px;
+			width: 57px;
 			height: 50px;
 			font-size: 25px;
 			margin: 2;
@@ -56,47 +56,5 @@ body {
 			background-size: cover;
 			background-image: url(https://informazone.com/wp-content/uploads/2019/03/ship_full_moon_horizon_129359_720x1280.jpg);
 		}
-
-		.button{
-			width: 110px;
-			height: 50px;
-			font-size: 25px;
-			margin: 2;
-			cursor: pointer;
-			background:#3da26f;
-			border: none;
-			color:white;
-		}
-
-		.textview{
-					width:400px;
-					height: 200px;
-					margin: 8px;
-					font-size:100px;
-					padding: 10px;
-					background:red;
-					border: five;
-					color: white;
-		}
-		.main{
-			position: absolute;
-			top: 50%;
-			left: 50%;
-			transform:translateX(-50%)translateY(-50%);
-
-		}
-
-		.kembali a {
-			float: left;
-			text-decoration: none;
-			color: #fff;
-			padding: 5px 4px;
-			border:1px solid;
-			border-radius: 2px;
-			margin-top: 10px;
-		}
-		.kembali a:hover{
-			background:yellowgreen
 		
-		}
 }
